@@ -7,7 +7,7 @@ It took me about three hours, and it was a great learning experience.
 
 
 
-#How to play
+# How to play
 * Use the WASD keys to move the snake around
 * Pick up food
 * Keep picking up food until the game restarts
